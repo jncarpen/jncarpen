@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- My name is Jordan Carpenter
+- I'm a PhD student in Neuroscience
+- Research interests: statistical models, simulations, and the subiculum
+
 <!--
 **jncarpen/jncarpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
